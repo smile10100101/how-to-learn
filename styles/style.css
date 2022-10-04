@@ -285,7 +285,6 @@
   display: flex;
   margin: 0 auto;
   justify-content: space-between;
-
 }
 
 .footer__column_content_copyright {
@@ -293,7 +292,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
 }
 
 .footer__author {
@@ -313,7 +311,7 @@
 
 .footer__column-links {
   padding: 0;
-  margin-top: 20;
+  margin-top: 20px;
   margin-bottom: 16px;
   list-style-type: none;
 }
@@ -326,9 +324,8 @@
   text-decoration: none;
 }
 
-.footer__social-icons {
+.footer__social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
 }
-
