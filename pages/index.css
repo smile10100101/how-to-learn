@@ -66,8 +66,8 @@
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(../blocks/footer/__column/_content/footer__columns_content_info.css);
-@import url(../blocks/footer/__column/_content/footer__columns_content_social.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
 
